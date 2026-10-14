@@ -1,0 +1,3 @@
+# Dependencias externas usadas por los scripts (una por línea, con el script que la usa).
+# Ejemplo:
+# requests>=2.31  # scripts/descargar.py
